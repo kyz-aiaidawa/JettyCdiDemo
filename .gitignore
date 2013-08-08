@@ -1,0 +1,12 @@
+/target/
+/build/
+/dist/
+/nbproject/
+*.log
+*.?ar
+*.iml
+*.ipr
+*.iws
+*.NavData
+*.navData
+
